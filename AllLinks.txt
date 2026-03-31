@@ -1,0 +1,47 @@
+# Apex Bodies
+https://igod.gov.in/apx/APXC/organizations
+https://igod.gov.in/apx/states
+https://igod.gov.in/apx/OTHR/organizations
+
+# Union Government
+https://igod.gov.in/ug/E002/organizations
+https://igod.gov.in/ug/E053/organizations
+https://igod.gov.in/ug/E003/organizations
+https://igod.gov.in/ug/E005/organizations
+https://igod.gov.in/ug/E013/organizations
+https://igod.gov.in/ug/E051/organizations
+https://igod.gov.in/ug/STABDY/organizations
+https://igod.gov.in/ug/AUTBDY/organizations
+https://igod.gov.in/ug/E059/organizations
+https://igod.gov.in/ug/E009/organizations
+https://igod.gov.in/ug/SPMA/organizations
+https://igod.gov.in/ug/DUW/organizations
+https://igod.gov.in/ug/RFO/organizations
+https://igod.gov.in/ug/CNCL/organizations
+https://igod.gov.in/ug/SOC/organizations
+https://igod.gov.in/ug/OTHR/organizations
+
+# State / UT Government (View Only)
+https://igod.gov.in/sg/states
+
+# Legislature
+https://igod.gov.in/leg/L001/organizations
+https://igod.gov.in/leg/L004/organizations
+https://igod.gov.in/leg/L007/states
+https://igod.gov.in/leg/L008/states
+https://igod.gov.in/leg/OTHR/organizations
+
+# Judiciary
+https://igod.gov.in/jud/J001/organizations
+https://igod.gov.in/jud/J002/organizations
+https://igod.gov.in/jud/J003/organizations
+https://igod.gov.in/jud/E082/organizations
+https://igod.gov.in/jud/OTHR/organizations
+
+# Districts (View Only)
+https://igod.gov.in/sg/district/states
+
+# Indian Missions Abroad
+https://igod.gov.in/int/INMISS/organizations
+https://igod.gov.in/int/HNMISS/organizations
+https://igod.gov.in/int/OTHR/organizations
