@@ -74,3 +74,8 @@ python optimizedScrapper.py
 - This project is not production-ready. It is a learning exercise for web scraping and simple automation.
 - The code includes manual paths and database credentials that should not be used in real deployments.
 - Always respect website terms of service and robots.txt when scraping.
+
+
+## Author 
+Khan Juned 
+https://github.com/junedkhan9310
